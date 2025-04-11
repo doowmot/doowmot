@@ -1,5 +1,4 @@
 # 👋 Hello there! I'm Tom.
-(It's pronounced "Tom")
 
 Junior software developer with a background in financial services, a fondness for clean code, and a talent for fixing things that weren't broken until I touched them.
 
