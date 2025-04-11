@@ -18,7 +18,9 @@ Former mortgage advisor who went from explaining complicated things to confused 
 - [The School of Life: An Emotional Education](https://www.google.com/search?q=the+school+of+life+an+emotional+education+book) (Alain de Botton)
 
 ## 💭 Current Interests
-I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate because I've chosen a career where everything I learn will be obsolete in five years. [Read my thoughts on coding in the age of AI](https://docs.google.com/document/d/1jqmoxbzrKSAWJupv9jY1yvDVaN5jnBEXSvrVrwJVV6I/edit?usp=sharing)
+I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate because I've chosen a career where everything I learn will be obsolete in five years. 
+
+[Read my real-time existential crisis about coding in the AI age](https://docs.google.com/document/d/1jqmoxbzrKSAWJupv9jY1yvDVaN5jnBEXSvrVrwJVV6I/edit?usp=sharing)
 
 ## 🛜 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/doowmot)  
