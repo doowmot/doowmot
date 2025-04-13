@@ -48,7 +48,7 @@ A simple quote generator website to honour the timeless wisdom of Charlie Munger
 ## ✍️ Essays
 
 I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate, because I’ve chosen a career where everything I learn might be obsolete in five years.
-- [📘 Coding in the AI Age](https://docs.google.com/document/d/1jqmoxbzrKSAWJupv9jY1yvDVaN5jnBEXSvrVrwJVV6I/edit?usp=sharing)  
+- [📘 Coding in the AI Age](https://doowmot.com/ai)  
 
 ---
 
