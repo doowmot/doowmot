@@ -48,14 +48,7 @@ A simple quote generator website to honour the timeless wisdom of Charlie Munger
 ## ✍️ Essays
 
 I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate, because I’ve chosen a career where everything I learn might be obsolete in five years.
-
-These essays explore some of the big-picture thinking behind my transition into software development:
-
-- [🧭 Career Strategy Doc – Behind-the-scenes](https://docs.google.com/document/d/1hi01kRs79aZP8ZkzUi_VJVG4L0HBHfZgvSvJGStpb98/edit?usp=sharing)  
-  A transparent look at how I’m approaching my career change — goals, risks, timelines, mental models, and how I’m trying to optimize for long-term learning and leverage.
-
 - [📘 Coding in the AI Age](https://docs.google.com/document/d/1jqmoxbzrKSAWJupv9jY1yvDVaN5jnBEXSvrVrwJVV6I/edit?usp=sharing)  
-  A real-time existential crisis about whether software developers are the new factory workers — and what it means to run *towards* AI instead of away from it.
 
 ---
 
@@ -87,7 +80,8 @@ Interested in working on financial tools or projects that make complex systems m
 ## 🛜 Let's Connect
 
 - 📄 [CV](https://drive.google.com/file/d/1daRZLhpyyvT9FskpCKbKd3shHYkFsH1E/view?usp=sharing)  
-- 📎 [LinkedIn](https://www.linkedin.com/in/doowmot)  
+- 📎 [LinkedIn](https://www.linkedin.com/in/doowmot)
+- 🌐 [Website](https://www.doowmot.com)
 - 📬 tomwood1875@gmail.com
 
 ---
