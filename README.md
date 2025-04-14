@@ -57,7 +57,7 @@ I'm fascinated by AI, the future of work, and how not to get replaced by either.
 - Learning full-stack JavaScript (MERN)
 - Building a mortgage comparison tool
 - Reading *The Pragmatic Programmer* and *The Mythical Man-Month*
-- Applying to junior software roles
+- Looking for junior developer roles that value learning velocity and mentorship
 
 ---
 
