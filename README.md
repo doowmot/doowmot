@@ -79,10 +79,10 @@ Interested in working on financial tools or projects that make complex systems m
 
 ## 🛜 Let's Connect
 
-- 📄 [CV](https://drive.google.com/file/d/1daRZLhpyyvT9FskpCKbKd3shHYkFsH1E/view?usp=sharing)  
-- 📎 [LinkedIn](https://www.linkedin.com/in/doowmot)
+- 📬 tom@doowmot.com
 - 🌐 [Website](https://www.doowmot.com)
-- 📬 tomwood1875@gmail.com
+- 📄 [CV](https://doowmot.com/cv.pdf)  
+- 📎 [LinkedIn](https://www.linkedin.com/in/doowmot)
 
 ---
 
