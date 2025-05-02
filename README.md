@@ -19,9 +19,9 @@ Former mortgage advisor who went from explaining complicated things to confused 
 
 ---
 
-## ⚙️ What I'm Currently Working On
+## ⚙️ What I'm Working On
 
-Currently building a **mortgage comparison tool** with the MERN stack to simplify complex financial decisions.
+Currently building a web app using MERN stack for first-time house buyers to simplify how the mortgage process works, what they can afford, and who to trust.
 
 ---
 
@@ -50,34 +50,21 @@ A simple quote generator website to honour the timeless wisdom of Charlie Munger
 I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate, because I’ve chosen a career where everything I learn might be obsolete in five years.
 - [📘 Coding in the AI Age](https://doowmot.com/ai)  
 
----
-
-## 📆 Now
-
-- Learning full-stack JavaScript (MERN)
-- Building a mortgage comparison tool
-- Reading *The Pragmatic Programmer* and *The Mythical Man-Month*
-- Looking for junior developer roles that value learning velocity and mentorship
 
 ---
 
-## 📚 Books That Shaped My Thinking
+## 📚 People That Have Most Shaped My Worldview
 
-- [Poor Charlie's Almanack](https://www.google.com/search?q=poor+charlie%27s+almanack+book) – Mental models and multidisciplinary thinking
-- [Zero to One](https://www.google.com/search?q=zero+to+one+peter+thiel+book) – First principles thinking, avoiding competition
-- [Fooled by Randomness](https://www.google.com/search?q=fooled+by+randomness+nassim+taleb+book) – Understanding probability and risk
-- [How to Live](https://www.google.com/search?q=how+to+live+derek+sivers+book) – There are no right answers
-- [The School of Life: An Emotional Education](https://www.google.com/search?q=the+school+of+life+an+emotional+education+book) – Emotional intelligence
-
----
-
-## 🤝 Open to Collaborate
-
-Interested in working on financial tools or projects that make complex systems more accessible? Let's connect!
+- [Charlie Munger](https://www.goodreads.com/author/show/236437.Charles_T_Munger): Mental models and ethics
+- [Nassim Taleb](https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb): Philosophy and risk
+- [Paul Graham](https://www.paulgraham.com/articles.html): Family and clarity
+- [Derek Sivers](https://www.goodreads.com/author/show/2766361.Derek_Sivers): Authenticity
 
 ---
 
 ## 🛜 Let's Connect
+
+Interested in working on financial tools or projects that make complex systems more accessible? Let's connect!
 
 - 📬 tom@doowmot.com
 - 🌐 [doowmot.com](https://www.doowmot.com)
