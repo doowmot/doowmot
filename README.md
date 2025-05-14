@@ -2,8 +2,7 @@
 
 tom@doowmot.com | [doowmot.com](https://www.doowmot.com) | [CV](https://doowmot.com/cv.pdf) | [LinkedIn](https://www.linkedin.com/in/doowmot)
 
-Junior software developer with a background in financial services, a fondness for clean code, and a talent for fixing things that weren't broken until I touched them. Former mortgage advisor who went from explaining complicated things to confused humans to being the confused human getting explained things by error messages. Tis the circle of life.
-
+Software developer bridging technical expertise with financial services background. Experienced in translating complex financial concepts, managing regulatory compliance, and adapting to dynamic environments. Now combining programming skills with business acumen to solve real, valuable problems. 
 
 ## 💻 Tech Stack
 
