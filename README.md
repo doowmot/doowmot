@@ -1,10 +1,9 @@
 # 👋 Hello there! I'm Tom.
 
-Junior software developer with a background in financial services, a fondness for clean code, and a talent for fixing things that weren't broken until I touched them.
+tom@doowmot.com | [doowmot.com](https://www.doowmot.com) | [CV](https://doowmot.com/cv.pdf) | [LinkedIn](https://www.linkedin.com/in/doowmot)
 
-Former mortgage advisor who went from explaining complicated things to confused humans to being the confused human getting explained things by error messages. Tis the circle of life.
+Junior software developer with a background in financial services, a fondness for clean code, and a talent for fixing things that weren't broken until I touched them. Former mortgage advisor who went from explaining complicated things to confused humans to being the confused human getting explained things by error messages. Tis the circle of life.
 
----
 
 ## 💻 Tech Stack
 
@@ -17,9 +16,8 @@ Former mortgage advisor who went from explaining complicated things to confused 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 🚀 Featured Projects
+## 🛠️ Featured Projects
 
 ### [BeeBook – Social Network Platform](https://github.com/doowmot/beebook)
 A Facebook clone built with C# and ASP.NET where I implemented the friend request system.
@@ -27,21 +25,10 @@ A Facebook clone built with C# and ASP.NET where I implemented the friend reques
 - **Features:** User authentication, friend requests, news feed
 - **Highlights:** Achieved 95% test coverage using TDD approach
 
----
 
 ## ✍️ Essays
 
 I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate, because I’ve chosen a career where everything I learn might be obsolete in five years.
 - [📘 Coding in the AI Age](https://doowmot.com/ai)  
 
----
-
-## 🛜 Let's Connect
-
-- 📬 tom@doowmot.com
-- 🌐 [doowmot.com](https://www.doowmot.com)
-- 📄 [CV](https://doowmot.com/cv.pdf)  
-- 📎 [LinkedIn](https://www.linkedin.com/in/doowmot)
-
----
 
