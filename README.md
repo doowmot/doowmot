@@ -19,12 +19,6 @@ Former mortgage advisor who went from explaining complicated things to confused 
 
 ---
 
-## ⚙️ What I'm Working On
-
-Currently building a web app using MERN stack for first-time house buyers to simplify how the mortgage process works, what they can afford, and who to trust.
-
----
-
 ## 🚀 Featured Projects
 
 ### [BeeBook – Social Network Platform](https://github.com/doowmot/beebook)
@@ -33,16 +27,6 @@ A Facebook clone built with C# and ASP.NET where I implemented the friend reques
 - **Features:** User authentication, friend requests, news feed
 - **Highlights:** Achieved 95% test coverage using TDD approach
 
-### [Airbnb Clone – Property Rental Platform](https://github.com/doowmot/airbnb-clone)
-Rental platform with date availability system and user authentication.
-- **Tech Stack:** Python, Flask, PostgreSQL, PyTest
-- **Features:** Date range selection, user authentication, property listings
-- **Highlights:** Delivered core functionality within a one-week sprint
-
-### [CharlieMunger.io – Quote Generator](https://www.charliemunger.io)
-A simple quote generator website to honour the timeless wisdom of Charlie Munger. Built independently to practice HTML/CSS/JavaScript and deployment workflows.  
-- 🌐 [Live Site](https://www.charliemunger.io) |  📂 [GitHub Repo](https://github.com/doowmot/charlie-munger-quote-generator)
-
 ---
 
 ## ✍️ Essays
@@ -50,21 +34,9 @@ A simple quote generator website to honour the timeless wisdom of Charlie Munger
 I'm fascinated by AI, the future of work, and how not to get replaced by either. I believe problem-solving skills transcend specific technologies, which is fortunate, because I’ve chosen a career where everything I learn might be obsolete in five years.
 - [📘 Coding in the AI Age](https://doowmot.com/ai)  
 
-
----
-
-## 📚 People That Have Most Shaped My Worldview
-
-- [Charlie Munger](https://www.goodreads.com/author/show/236437.Charles_T_Munger): Mental models and ethics
-- [Nassim Taleb](https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb): Philosophy and risk
-- [Paul Graham](https://www.paulgraham.com/articles.html): Family and clarity
-- [Derek Sivers](https://www.goodreads.com/author/show/2766361.Derek_Sivers): Authenticity
-
 ---
 
 ## 🛜 Let's Connect
-
-Interested in working on financial tools or projects that make complex systems more accessible? Let's connect!
 
 - 📬 tom@doowmot.com
 - 🌐 [doowmot.com](https://www.doowmot.com)
@@ -73,6 +45,3 @@ Interested in working on financial tools or projects that make complex systems m
 
 ---
 
-<p align="center">
-  <img src="https://pbs.twimg.com/media/BoUn8iUIgAAq-CU.png" alt="Tom's Programming Journey"/>
-</p>
