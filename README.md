@@ -4,6 +4,9 @@ tom@doowmot.com | [doowmot.com](https://www.doowmot.com) | [CV](https://doowmot.
 
 Software developer bridging technical expertise with financial services background. Experienced in translating complex financial concepts, managing regulatory compliance, and adapting to dynamic environments. Now combining programming skills with business acumen to solve real, valuable problems. 
 
+**Likes**: dogs, books, The Sopranos  
+**Dislikes**: celery, loud noises, the entire nation of France and everyone within it.
+
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
