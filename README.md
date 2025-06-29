@@ -4,7 +4,7 @@ tom@doowmot.com | [doowmot.com](https://www.doowmot.com) | [CV](https://doowmot.
 
 Finance professional with experience in mortgage products and FCA regulatory compliance. Now retraining as a software developer, building a technical toolkit that includes TypeScript, Python, and C# to solve the complex challenges encountered firsthand in the financial services industry.
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -14,7 +14,7 @@ Finance professional with experience in mortgage products and FCA regulatory com
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🛠️ Featured Projects
+## 🛠️ Featured Projects
  
 [BeeBook (Facebook Clone)](https://github.com/doowmot/beebook) _C#, ASP.NET, PostgreSQL, NUnit_
 - Collaborated in a 5-person agile team across 3 sprint cycles to build a full-stack web application
