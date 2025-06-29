@@ -15,6 +15,11 @@ Finance professional with experience in mortgage products and FCA regulatory com
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🛠️ Featured Projects
+
+[Mortgage Snapshot (In Progress)](https://github.com/doowmot/mortgage-snapshot) _TypeScript, React, Node.js, MongoDB, Jest_
+- Currently developing a full-stack application designed to demystify the mortgage process for first-time buyers
+- Architecting the project with a modern tech stack (TypeScript, React) to build a robust, scalable, and user-friendly tool
+- The roadmap includes features such as affordability calculators, mortgage product comparisons, and data-driven tools to estimate additional costs and timelines
  
 [BeeBook (Facebook Clone)](https://github.com/doowmot/beebook) _C#, ASP.NET, PostgreSQL, NUnit_
 - Collaborated in a 5-person agile team across 3 sprint cycles to build a full-stack web application
