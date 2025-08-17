@@ -1,10 +1,6 @@
-# 👋 Hello there! I'm Tom.
+# Hi, I'm Tom.
 
 tom@doowmot.com | [doowmot.com](https://www.doowmot.com) | [CV](https://doowmot.com/cv.pdf) | [LinkedIn](https://www.linkedin.com/in/doowmot)
-
-Finance professional with experience in mortgage products and FCA regulatory compliance. Now retraining as a software developer, building a technical toolkit that includes TypeScript, Python, and C# to solve the complex challenges encountered firsthand in the financial services industry.
-
-## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -14,7 +10,9 @@ Finance professional with experience in mortgage products and FCA regulatory com
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🛠️ Featured Projects
+Finance professional with experience in mortgage products and FCA regulatory compliance. Now retraining as a software developer, building a technical toolkit that includes TypeScript, Python, and C# to solve the complex challenges encountered firsthand in the financial services industry.
+
+## Featured Projects
 
 [Mortgage Snapshot (In Progress)](https://github.com/doowmot/mortgage-snapshot) _TypeScript, React, Node.js, MongoDB, Jest_
 - Currently developing a full-stack application designed to demystify the mortgage process for first-time buyers
@@ -26,7 +24,7 @@ Finance professional with experience in mortgage products and FCA regulatory com
 - Gained practical experience implementing core features, such as a friend request system
 - Practiced Test-Driven Development (TDD) principles and participated in regular code reviews
 
-## ✍️ Essays
+## Blogs
 
 [Coding in the AI Age](https://doowmot.com/ai)  
 
